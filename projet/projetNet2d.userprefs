@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\movingUfoScript.cs">
+    <Files>
+      <File FileName="Assets\scripts\playerScript.cs" Line="89" Column="82" />
+      <File FileName="Assets\scripts\movingUfoScript.cs" Line="43" Column="6" />
+      <File FileName="Assets\scripts\tir.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\moveMissileScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\createurMissileScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\menuScript.cs" Line="29" Column="3" />
+      <File FileName="Assets\scripts\dataManaging\savingData.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\dataManaging\countrys.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\dataManaging\victoriousCountry.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\variablesGlobales.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\guiScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\enemiScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\affichageScoreScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\dataManaging\SerializableDictionary.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\dataManaging\listePaysSerialisable.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

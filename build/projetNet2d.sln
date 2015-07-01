@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projetNet2d", "projetNet2d\projetNet2d.csproj", "{BBD8A187-1FB7-4D71-903F-3009D5B92974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Master|ARM = Master|ARM
+		Master|x86 = Master|x86
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Debug|ARM.ActiveCfg = Debug|ARM
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Debug|ARM.Build.0 = Debug|ARM
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Debug|ARM.Deploy.0 = Debug|ARM
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Debug|x86.ActiveCfg = Debug|x86
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Debug|x86.Build.0 = Debug|x86
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Debug|x86.Deploy.0 = Debug|x86
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Master|ARM.ActiveCfg = Master|ARM
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Master|ARM.Build.0 = Master|ARM
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Master|ARM.Deploy.0 = Master|ARM
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Master|x86.ActiveCfg = Master|x86
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Master|x86.Build.0 = Master|x86
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Master|x86.Deploy.0 = Master|x86
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Release|ARM.ActiveCfg = Release|ARM
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Release|ARM.Build.0 = Release|ARM
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Release|ARM.Deploy.0 = Release|ARM
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Release|x86.ActiveCfg = Release|x86
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Release|x86.Build.0 = Release|x86
+		{BBD8A187-1FB7-4D71-903F-3009D5B92974}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
